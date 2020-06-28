@@ -1,5 +1,5 @@
 # Deej-board a PCB fader sandwich
-![Deejboard photo](https://github.com/olijoe/Deej-board/blob/master/docs/eCUZEYQ%20-%20Imgur.jpg)
+![Deejboard photo](https://github.com/olijoe/Deej-board/blob/master/docs/IMG_4527.jpg)
 
 ## Description
 This board uses 4 faders to control the volume of individual applications on Linux/Windows using [deej](https://github.com/omriharel/deej). 
