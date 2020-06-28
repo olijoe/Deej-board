@@ -1,4 +1,4 @@
-# Deej-board a PCB sandwich for easy volume control
+# Deej-board a PCB fader sandwich
 ![Deejboard photo](https://github.com/olijoe/Deej-board/blob/master/docs/eCUZEYQ%20-%20Imgur.jpg)
 
 ## Description
@@ -8,7 +8,7 @@ My design uses both sides of the PCB, one for mounting the components and the ot
 
 ## Specifications
 - 90 x 85 x 12 mm
-- 4 sliders
+- 4 faders
 - powered via Micro-USB
 - [deej](https://github.com/omriharel/deej)
 
