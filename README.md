@@ -1,5 +1,5 @@
-# Snackboard µX - A DIY audio mixer for deej
-![Snackboard photo](/docs/top_view_photo.jpg)
+# Deej-board a PCB sandwich for easy volume control
+![Deej-board photo](docs/eCUZEYQ - Imgur.jpg)
 
 ## Description
 This board uses 4 faders to control the volume of individual applications on Linux/Windows using [deej](https://github.com/omriharel/deej). 
